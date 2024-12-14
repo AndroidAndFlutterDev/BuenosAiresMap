@@ -15,5 +15,5 @@ This project generates an **interactive map** using Python and the Folium librar
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/AndroidAndFlutterDev/interactive-map.git
-   cd interactive-map
+   git clone https://github.com/AndroidAndFlutterDev/BuenosAiresMap.git
+   cd BuenosAiresMap
